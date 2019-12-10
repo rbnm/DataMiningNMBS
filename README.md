@@ -8,6 +8,8 @@ https://opendata.infrabel.be/explore/dataset/evolutie-van-treinkilometers/inform
 Via onderstaande link is de data met betrekking tot de stiptheid van de treinen te vinden: 
 https://opendata.infrabel.be/explore/dataset/nationale-stiptheid-per-maand/information/
 
+### Voor de credits te runnen eerst *pip install pygame*
+
 Teamleden:
 Karen Veraa
 Ruben Mampaey
